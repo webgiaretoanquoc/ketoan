@@ -1,0 +1,199 @@
+﻿/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+.section-quy-trinh{
+	padding-top: 0px !important
+}
+.row-quy-trinh .col .col-inner{
+	padding-bottom: 27px;
+}
+.quytrinh-1{
+	border-bottom: 4px solid  #E23A59;
+}
+.quytrinh-2{
+	border-bottom: 4px solid  #1B75BB;
+}
+.quytrinh-3{
+	border-bottom: 4px solid  #FCC82B;
+}
+.quytrinh-4{
+	border-bottom: 4px solid  #45AEAE;
+}
+.stt-1{
+	background: #E23A59;
+}
+.sott-2{
+	background: #1B75BB;
+}
+.sott-3{
+	background: #FCC82B;
+}
+.sott-4{
+	background: #45AEAE;
+}
+.entry-content{
+	padding-top: 0px;
+}
+.accordion-item i[class^="icon-"], .accordion-item i[class*=" icon-"] {
+	font-family: FontAwesome !important;
+	color: #aeb5c0;
+	font-size: 16px;
+}
+.accordion-item .active .icon-angle-down:before {
+	content: "\f068";
+}
+.accordion-item .icon-angle-down:before {
+	content: "\f067";
+}
+.form-lien-he{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.form-lien-he .large-6,.form-lien-he .large-12{
+	padding: 0px 10px;
+}
+.footer .widget-title{
+	display: block;
+	width: 100%;
+
+}
+.footer .widget-title:after{
+	background-image: url(../../uploads/2019/08/border.png);
+	background-size: 52% 10%;
+	display: inline-block;
+	height: 20px;
+	content: "";
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	width: 100%;   
+}
+
+.is-divider{
+	display: none;
+}
+.section-tin-tuc button,.section-dich-vu button{
+	background: #1B75BB !important;
+	border: none !important;
+	color: white;
+}
+.p-dem{
+	font-size: 70px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.section-quy-trinh .icon-box{
+	padding: 16px;
+}
+.section-quy-trinh .icon-box p{
+	font-size: 12px;
+	font-weight: bold;
+}
+.so-ttt{
+	font-weight: bold;
+	margin-bottom: 0px;
+	font-size: 60px;
+	color: white;
+}
+.section-chuyen .icon-box-text h3{
+	color: #FCC82B;
+}
+.tieu-de-home{
+	margin-bottom: 30px;
+	color: #1B75BB;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+	background-color: currentColor !important;
+	border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+	color: #fff;
+	background-color: #446084;
+	border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white !important;
+	background : #2478ba !important;
+	border-color: #2478ba;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+	color: #fff;
+	background-color: black !important;
+	border-color: black !important;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+	color: #fff !important;
+	background-color: #cb2320  !important;
+	border-color: #cb2320  !important;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+	color: #fff !important;
+	background-color: #dd4e31 !important;
+	border-color: #dd4e31  !important;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+	color: #fff !important;
+	background-color: #0072b7 !important;
+	border-color: #0072b7     !important;
+}
+
+.single-date{
+	border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+	font-size: 24px !important;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+	border-top: none !important;
+	border-bottom: 1px dashed #ececec !important;
+
+}
+
+.entry-content img{
+	width: auto !important
+}
+.duong-line {
+	background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+	height: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	margin: -8px 20px 0 0;
+}
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media(max-width: 769px){
+	.p-dem {
+		font-size: 30px !important;}
+	.tieu-de-home{
+		font-size: 18px !important;
+		margin-bottom: 0px !important
+	}
+}

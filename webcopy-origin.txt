@@ -1,0 +1,576 @@
+Uri: https://ketoan.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/cac-cong-viec-co-ban-cua-ke-toan-thue/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\cac-cong-viec-co-ban-cua-ke-toan-thue\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/cac-cong-viec-co-ban-cua-ke-toan-thue/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\cac-cong-viec-co-ban-cua-ke-toan-thue\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/category/chia-se/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\chia-se\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/category/chia-se/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\chia-se\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/category/dich-vu/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\dich-vu\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/category/dich-vu/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\dich-vu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/category/khach-hang/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\khach-hang\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/category/khach-hang/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\khach-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/category/van-ban-phap-ly/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\van-ban-phap-ly\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/category/van-ban-phap-ly/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\category\van-ban-phap-ly\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/chia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\chia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/chia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\chia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/cuc-thue-viet-nam-han-quoc-hop-tac/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\cuc-thue-viet-nam-han-quoc-hop-tac\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/cuc-thue-viet-nam-han-quoc-hop-tac/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\cuc-thue-viet-nam-han-quoc-hop-tac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/dich-vu-nhan-su/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\dich-vu-nhan-su\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/dich-vu-nhan-su/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\dich-vu-nhan-su\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/dich-vu/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\dich-vu\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/faqs/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\faqs\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-cach-lap-bang-can-doi-ke-toan/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-cach-lap-bang-can-doi-ke-toan\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-cach-lap-bang-can-doi-ke-toan/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-cach-lap-bang-can-doi-ke-toan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-cach-lap-quy-dinh-ke-toan/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-cach-lap-quy-dinh-ke-toan\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-cach-lap-quy-dinh-ke-toan/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-cach-lap-quy-dinh-ke-toan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-lap-bang-tinh-luong/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-lap-bang-tinh-luong\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/huong-dan-lap-bang-tinh-luong/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\huong-dan-lap-bang-tinh-luong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/ke-toan-noi-bo/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\ke-toan-noi-bo\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/ke-toan-noi-bo/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\ke-toan-noi-bo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/thanh-lap-doanh-nghiep/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\thanh-lap-doanh-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/thanh-lap-doanh-nghiep/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\thanh-lap-doanh-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/vai-tro-cua-ke-toan-doi-voi-doanh-nghiep/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\vai-tro-cua-ke-toan-doi-voi-doanh-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://ketoan.webtudong8giay.com/vai-tro-cua-ke-toan-doi-voi-doanh-nghiep/feed/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\vai-tro-cua-ke-toan-doi-voi-doanh-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/cogn-viec-thue_06f8b9df090f45cb817b8829bcc4c0c2_large-280x278.jpg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\cogn-viec-thue_06f8b9df090f45cb817b8829bcc4c0c2_large-280x278.jpg
+Content Type: image/jpeg
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/dich-vu-ke-toan-noi-bo_large-280x278.jpg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\dich-vu-ke-toan-noi-bo_large-280x278.jpg
+Content Type: image/jpeg
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/dich-vu-nhan-su-dn_large-280x278.jpg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\dich-vu-nhan-su-dn_large-280x278.jpg
+Content Type: image/jpeg
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/izi_logo_footer-1-100x100.png
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\izi_logo_footer-1-100x100.png
+Content Type: image/png
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/izi_logo_footer-1.png
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\izi_logo_footer-1.png
+Content Type: image/png
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/pizi_tim_sen_1_thanh_tuu_bg_img.jpg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\pizi_tim_sen_1_thanh_tuu_bg_img.jpg
+Content Type: image/jpeg
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2018/08/thanh-lap-doanh-nghiep_large-280x278.jpg
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2018\08\thanh-lap-doanh-nghiep_large-280x278.jpg
+Content Type: image/jpeg
+
+Uri: https://ketoan.webtudong8giay.com/wp-content/uploads/2019/08/border.png
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-content\uploads\2019\08\border.png
+Content Type: image/png
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ketoan.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fcac-cong-viec-co-ban-cua-ke-toan-thue%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fcac-cong-viec-co-ban-cua-ke-toan-thue%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fchia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fchia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fcuc-thue-viet-nam-han-quoc-hop-tac%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fcuc-thue-viet-nam-han-quoc-hop-tac%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fdich-vu%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fdich-vu%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fdich-vu-nhan-su%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fdich-vu-nhan-su%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-cach-lap-bang-can-doi-ke-toan%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-cach-lap-bang-can-doi-ke-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-cach-lap-quy-dinh-ke-toan%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-cach-lap-quy-dinh-ke-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-lap-bang-tinh-luong%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fhuong-dan-lap-bang-tinh-luong%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fke-toan-noi-bo%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fke-toan-noi-bo%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fthanh-lap-doanh-nghiep%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fthanh-lap-doanh-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fvai-tro-cua-ke-toan-doi-voi-doanh-nghiep%2F
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fketoan.webtudong8giay.com%2Fvai-tro-cua-ke-toan-doi-voi-doanh-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/categories/30
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\categories\30
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/categories/31
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\categories\31
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/categories/32
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\categories\32
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/categories/33
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\categories\33
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/pages/148
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\pages\148
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/pages/155
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\pages\155
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/pages/164
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\pages\164
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/pages/166
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\pages\166
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/117
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\117
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/120
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\120
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/124
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\124
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/173
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\173
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/177
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\177
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/180
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\180
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/183
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\183
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/186
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\186
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/188
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\188
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/posts/195
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\posts\195
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://ketoan.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fcac-cong-viec-co-ban-cua-ke-toan-thue%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fchia-se-nghiep-vu-thue-va-ke-toan-cho-nguoi-moi-bat-dau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fcuc-thue-viet-nam-han-quoc-hop-tac%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fdich-vu-nhan-su%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fhuong-dan-cach-lap-bang-can-doi-ke-toan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fhuong-dan-cach-lap-quy-dinh-ke-toan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fhuong-dan-lap-bang-tinh-luong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fke-toan-noi-bo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fthanh-lap-doanh-nghiep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fketoan.webtudong8giay.com%252Fvai-tro-cua-ke-toan-doi-voi-doanh-nghiep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ketoan.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
